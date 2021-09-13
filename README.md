@@ -2,12 +2,13 @@
 Simple application made in C to url decode/encode strings in terminal
 
 ### Usage
+```
 [usage] %s [<options> <data>]
     -h          shows this help and exit
     -d          decode data
     -a          encode all chars
     [data]      the data to encode/decode (if not specified, it will be read from stdin)
-
+```
 
 ### Examples
 
